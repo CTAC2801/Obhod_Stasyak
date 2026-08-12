@@ -1,4 +1,5 @@
 #profile-title: Обходы БС 12.08.2026
+#announce: РСВ-Стасяк_VPN
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%B5%F0%9F%87%B1%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20324
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#lite%20%40FreeCFGHub
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#%F0%9F%87%B7%F0%9F%87%BA%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20153
